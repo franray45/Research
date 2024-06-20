@@ -1,0 +1,1 @@
+    ssh-keygen -o -a int_num -t ed25519 -f ~/path/to/save/keyName -C "sxf572@case.edu"
